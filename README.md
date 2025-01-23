@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Java developer from India</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/117486085/204156152-daf3ea7e-5c16-4f76-9ee7-b0752c00da20.png" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="neelesh2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkushwaha27&label=Profile%20views&color=0e75b6&style=flat" alt="Vivek Kushwaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkushwaha27" alt="vivekkushwaha27" /></a> </p>
 
@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[LinkedIn](https://leetcode.com/u/vivekkushwaha27)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh gupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_vivek.kushwaha?igsh=eXQxa2Eya3ZmcDdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neel-gupta-03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vivek_kush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neel_03" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vivekkushwaha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neel_112" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek2727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vivek Kushwaha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_vivek.kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vivek Kushwaha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vivek_kush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Vivek Kushwaha" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vivekkushwaha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivek Kushwaha" height="30" width="40" /></a>
 
 </p>
 
