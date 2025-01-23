@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **DSA, Oops,Java,Cpp**
 
-- 📫 How to reach me **mrneel2024@gmail.com**
+- 📫 How to reach me **vivekkushwaha9633@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-4WgaiW68JOkA8ImcrObS37TrZb4aYa8/view?usp=drive_link](https://drive.google.com/file/d/1-4WgaiW68JOkA8ImcrObS37TrZb4aYa8/view?usp=drive_link)
 
