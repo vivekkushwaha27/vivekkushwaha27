@@ -1,22 +1,22 @@
-<h1 align="center">Hey 👋, I'm Vivek Kushwaha</h1>
+<h1 align="center">Hello ! 👋, I'm Vivek Kushwaha</h1>
 <h3 align="center">A Passionate Full Stack Java developer from India</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/117486085/204156152-daf3ea7e-5c16-4f76-9ee7-b0752c00da20.png" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="neelesh2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelesh2003" alt="neelesh2003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkushwaha27" alt="vivekkushwaha27" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **Smart Contact Manager**
+- 🔭 I’m currently working on **VidyaVat Ed-Tech Application**
 
-- 🌱 I’m currently learning **Spring,SpringBoot,Java,JDBC**
+- 🌱 I’m currently learning **SpringBoot, Advanced Java**
 
 - 👯 I’m looking to collaborate on **SpringBoot Projects**
 
-- 💬 Ask me about **DSA, Oops,Java,Cpp**
+- 💬 Ask me about **DSA, OOPS, Java, C++, MySQL**
 
 - 📫 How to reach me **vivekkushwaha2727@gmail.com**
 
