@@ -1,5 +1,5 @@
 <h1 align="center">Hello ! 👋, I'm Vivek Kushwaha</h1>
-<h3 align="center">A Passionate Full Stack Java developer from India</h3>
+<h3 align="center">A Passionate Full Stack developer from India</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/117486085/204156152-daf3ea7e-5c16-4f76-9ee7-b0752c00da20.png" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkushwaha27&label=Profile%20views&color=0e75b6&style=flat" alt="Vivek Kushwaha" /> </p>
